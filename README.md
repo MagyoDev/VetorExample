@@ -1,2 +1,2 @@
 # Fatec Zona Leste:
-Aula de Engenharia de Dados.
+Aula de Estrutura de dados.
